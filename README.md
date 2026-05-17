@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Mohammed+Kaif;Full+Stack+Developer;AI+Explorer+🤖;React+%7C+Next.js+%7C+Node.js;Building+Cool+Things+on+the+Web+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Mohammed+Kaif;Full+Stack+Developer;AI+Explorer+🤖;React+%7C+Next.js+%7C+Node.js;Building+Cool+Things+on+the+Web+🚀" />
 
 </div>
 
